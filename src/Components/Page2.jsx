@@ -14,13 +14,13 @@ const Page2 = () => {
 
         <img
           className=" lg:w-[60%] w-[99%] lg:absolute lg:top-6 absolute top-[-5%] lg:pt-[59px] lg:rounded-lg  pt-4 lg:ml-[19%]"
-          src="src/assets/3.png"
+          src="../assets/3.png"
           alt="lo"
         />
         <p
           className=" font-semibold lg:pt-110  text-center  pt-[29%] 
-     
-        "
+   
+      "
         >
           Valves - Pumps - Pipes - IoT Drives & Controllers - Wires & Cables -
           Solar Systems - Motors
