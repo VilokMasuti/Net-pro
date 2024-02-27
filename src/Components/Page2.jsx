@@ -13,8 +13,8 @@ const Page2 = () => {
         </h1>
 
         <img
-          className=" lg:w-[70%] w-[99%] lg:absolute lg:top-6 absolute top-[-5%] lg:pt-[59px] lg:rounded-lg  pt-4 lg:ml-[15%]"
-          src="/src/assets/4.png"
+          className=" lg:w-[60%] w-[99%] lg:absolute lg:top-6 absolute top-[-5%] lg:pt-[59px] lg:rounded-lg  pt-4 lg:ml-[19%]"
+          src="src/assets/3.png"
           alt="lo"
         />
         <p

@@ -10,7 +10,7 @@ const Home = () => {
         }}
       >
         <div className=" flex justify-center items-center">
-          <img className="w-[19%] mb-[18%]" src="/src/assets/logo.png" alt="" />
+          <img className="w-[19%] mb-[18%]" src="src/assets/logo.png" alt="" />
         </div>
         <div className=" lg:absolute lg:top-[16%] lg:left-[40%]">
           <p className=" lg:font-bold   lg:pr-[60px] font-bold  text-[13px] text-center tracking-tighter  ml-5  ">
@@ -33,7 +33,7 @@ const Home = () => {
         <div className="lg:flex lg:justify-between flex">
           <img
             className=" lg:w-[20%]  lg:absolute lg:top-[26%] lg:left-3 ml-40 absolute left-[-40%] w-[25%] top-[40%] "
-            src="/src/assets/1.png"
+            src="src/assets/1.png"
             alt=""
           />
 
@@ -41,7 +41,7 @@ const Home = () => {
             className="lg:w-[50%] lg:absolute lg:top-[26%] lg:left-[45%] 
              absolute left-[40%] top-[35%] w-[60%]
              mt-[60px]"
-            src="/src/assets/2.png"
+            src="src/assets/2.png"
             alt=""
           />
         </div>
